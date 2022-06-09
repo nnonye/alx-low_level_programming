@@ -4,7 +4,7 @@
  *  * times_table - Prints the nine times table starting from 0
  *   *
  *    * Return: void
- *     */
+ */
 
 void times_table(void)
 {
