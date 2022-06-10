@@ -1,1 +1,1 @@
-A repository for a debugging project.
+Projects on C programming language.
